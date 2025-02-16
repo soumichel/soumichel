@@ -1,16 +1,74 @@
-## Hi there 👋
 
-<!--
-**soumichel/soumichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Olá, sou Michel Souza! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvedor Back-end  🚀
+
+Bem-vindo ao meu GitHub! Aqui você encontrará um pouco do meu trabalho e das tecnologias que domino. 
+
+Sou um apaixonado por tecnologia, esportes e desenvolvimento de software, com foco em criar soluções de alta qualidade que resolvam problemas reais, combinando eficiência, escalabilidade, inovação e boas práticas de desenvolvimento. 
+
+Atualmente, sou **Desenvolvedor Back-end na Emakers Jr.**, uma empresa júnior, e estou cursando **Sistemas de Informação** na UFLA. Estou sempre buscando oportunidades profissionais para aplicar e expandir meus conhecimentos em desenvolvimento Back-end e Engenharia de Software.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas que utilizo
+
+### Linguagens de Programação:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Bibliotecas:
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Bancos de Dados:
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Desenvolvimento Web:
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### DevOps:
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+<div align="center">
+  <a href="https://github.com/soumichel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumichel&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+Se você está interessado em discutir projetos, oportunidades ou trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato pelo LinkedIn ou Outlook.
+
+<div align="center">
+  <a href="https://linkedin.com/in/soumichel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:michelsouza64@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+</div>
+
+---
+
+📌 Sinta-se à vontade para explorar meus repositórios e entrar em contato!  
+
+---
