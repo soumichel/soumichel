@@ -1,9 +1,6 @@
-
----
-
 ## Olá, sou Michel Souza! 👋
 
-### Desenvolvedor Back-end  🚀
+### Desenvolvedor Full Stack 🚀
 
 Bem-vindo ao meu GitHub! Aqui você encontrará um pouco do meu trabalho e das tecnologias que domino. 
 
@@ -29,6 +26,8 @@ Atualmente, sou **Desenvolvedor Back-end na Emakers Jr.**, uma empresa júnior, 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Bancos de Dados:
 
@@ -41,15 +40,18 @@ Atualmente, sou **Desenvolvedor Back-end na Emakers Jr.**, uma empresa júnior, 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### DevOps:
+### DevOps / Testes e Integração:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 <div align="center">
   <a href="https://github.com/soumichel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumichel&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumichel&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 ---
@@ -69,6 +71,6 @@ Se você está interessado em discutir projetos, oportunidades ou trocar ideias 
 
 ---
 
-📌 Sinta-se à vontade para explorar meus repositórios e entrar em contato!  
+📌 Explore meus repositórios e vamos compartilhar ideias e experiências sobre tecnologia!  
 
 ---
