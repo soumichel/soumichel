@@ -2,11 +2,13 @@
 
 ### Desenvolvedor Full Stack Júnior 🚀
 
-Bem-vindo ao meu GitHub! Aqui você encontrará um pouco do meu trabalho e das tecnologias que domino. 
+Bem-vindo ao meu GitHub! Aqui você encontrará um pouco do meu trabalho e das tecnologias que domino.
 
-Sou um apaixonado por tecnologia, esportes e desenvolvimento de software, com foco em criar soluções de alta qualidade que resolvam problemas reais, combinando eficiência, escalabilidade, inovação e boas práticas de desenvolvimento. 
+Sou apaixonado por tecnologia, esportes e desenvolvimento de software, com foco em criar soluções de alta qualidade que resolvam problemas reais, combinando eficiência, escalabilidade, inovação e boas práticas de desenvolvimento.
 
-Atualmente, sou **Desenvolvedor Back-end na Emakers Jr.**, uma empresa júnior, e estou cursando **Sistemas de Informação** na UFLA. Estou sempre buscando oportunidades profissionais para aplicar e expandir meus conhecimentos em desenvolvimento Back-end e Engenharia de Software.
+Atualmente, atuo como **Desenvolvedor Back-end na Emakers Jr.** e também como **Desenvolvedor Full Stack Estagiário na Rodosafra**.
+
+Estou cursando Bacharel em Sistemas de Informação pela UFLA e estou sempre em busca de oportunidades para continuar evoluindo profissionalmente e contribuir com o desenvolvimento de soluções eficientes e bem estruturadas.
 
 ---
 
