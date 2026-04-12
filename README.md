@@ -1,18 +1,16 @@
 ## Olá, sou Michel Souza! 👋
 
-### Desenvolvedor Full Stack Júnior 🚀
-
 Bem-vindo ao meu GitHub! Aqui você encontrará um pouco do meu trabalho e das tecnologias que domino.
 
-Sou apaixonado por tecnologia, esportes e desenvolvimento de software, com foco em criar soluções de alta qualidade que resolvam problemas reais, combinando eficiência, escalabilidade, inovação e boas práticas de desenvolvimento.
+Sou desenvolvedor Full Stack, apaixonado por tecnologia, esportes e desenvolvimento de software, com foco em criar soluções de alta qualidade que resolvam problemas reais, combinando eficiência, escalabilidade, inovação e boas práticas de desenvolvimento.
 
-Atualmente, atuo como **Desenvolvedor Back-end na Emakers Jr.** e também como **Desenvolvedor Full Stack Estagiário na Rodosafra**.
+Atualmente, atuo como Desenvolvedor Full Stack Estagiário na Rodosafra.
 
 Estou cursando Bacharel em Sistemas de Informação pela UFLA e estou sempre em busca de oportunidades para continuar evoluindo profissionalmente e contribuir com o desenvolvimento de soluções eficientes e bem estruturadas.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas que utilizo
+## 🛠️ Stack e Ferramentas
 
 ### Linguagens de Programação:
 
