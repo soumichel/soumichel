@@ -1,12 +1,12 @@
 ## Olá, sou Michel Souza! 👋
 
-Bem-vindo ao meu GitHub! Aqui você encontrará um pouco do meu trabalho e das tecnologias que domino.
+Bem-vindo ao meu GitHub! Aqui você encontrará um pouco dos meus projetos, experiências e das tecnologias com as quais trabalho.
 
-Sou desenvolvedor Full Stack, apaixonado por tecnologia, esportes e desenvolvimento de software, com foco em criar soluções de alta qualidade que resolvam problemas reais, combinando eficiência, escalabilidade, inovação e boas práticas de desenvolvimento.
+Sou desenvolvedor full stack, apaixonado por tecnologia, esportes e software livre, com interesse em criar soluções que resolvam problemas reais, priorizando qualidade, eficiência e boas práticas de desenvolvimento.
 
-Atualmente, atuo como Desenvolvedor Full Stack Estagiário na Rodosafra.
+Atualmente, atuo como Desenvolvedor Full Stack Júnior na Rodosafra.
 
-Estou cursando Bacharel em Sistemas de Informação pela UFLA e estou sempre em busca de oportunidades para continuar evoluindo profissionalmente e contribuir com o desenvolvimento de soluções eficientes e bem estruturadas.
+Curso Bacharel em Sistemas de Informação na Universidade Federal de Lavras (UFLA) e estou sempre em busca de novos conhecimentos e oportunidades de crescimento profissional.
 
 ---
 
